@@ -3,22 +3,22 @@
 # 🍳 AI-Powered Recipe Generation Models
 
 This repository contains **three Jupyter notebooks** implementing **AI-powered recipe generation** using different Large Language Models (LLMs) and retrieval techniques.  
-Each notebook demonstrates how to take user input (ingredients or dish name), search a dataset of Indian recipes, and generate accurate and detailed recipe suggestions.
+Each notebook demonstrates how to take user input (ingredients or dish name), search a dataset of Indian recipes, and generate accurate, dataset-based recipe suggestions.
 
 ---
 
 ## 📜 Table of Contents
-- [Overview](#overview)
-- [Notebooks](#notebooks)
-- [Dataset](#dataset)
-- [How It Works](#how-it-works)
-- [Model Comparison](#model-comparison)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Notebooks](#-notebooks)
+- [Dataset](#-dataset)
+- [How It Works](#-how-it-works)
+- [Model Comparison](#-model-comparison)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Future Improvements](#-future-improvements)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
